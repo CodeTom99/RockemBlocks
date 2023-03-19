@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/background.png</file>
+        <file>pic/Gem/Blue.gif</file>
+        <file>pic/Gem/crystalball.gif</file>
+        <file>pic/Gem/Gold.gif</file>
+        <file>pic/Gem/Green.gif</file>
+        <file>pic/Gem/Magic.gif</file>
+        <file>pic/Gem/orange.gif</file>
+        <file>pic/Gem/Red.gif</file>
+        <file>pic/Gem/Silver.gif</file>
+        <file>pic/Gem/violet.gif</file>
+        <file>pic/Menu/record.png</file>
+        <file>pic/Menu/settings.png</file>
+        <file>pic/Menu/start.png</file>
+        <file>pic/Menu/record_hover.png</file>
+        <file>pic/Menu/setting_hover.png</file>
+        <file>pic/Menu/start_hover.png</file>
+        <file>pic/Menu/exit.png</file>
+        <file>pic/Menu/exit_hover.png</file>
+        <file>pic/Gem/crystalball.png</file>
+        <file>pic/InGame/background.jpg</file>
+        <file>pic/InGame/background2.jpg</file>
+        <file>pic/InGame/background3.jpg</file>
+        <file>pic/InGame/bottom frame.png</file>
+        <file>pic/InGame/bottom widget classic.png</file>
+        <file>pic/InGame/menu.png</file>
+        <file>pic/InGame/menu_hover.png</file>
+        <file>pic/InGame/reset.png</file>
+        <file>pic/InGame/reset_hover.png</file>
+        <file>pic/InGame/score.png</file>
+        <file>pic/InGame/top frame.png</file>
+        <file>pic/Gem/Gold.png</file>
+        <file>pic/Gem/Green.png</file>
+        <file>pic/Gem/Magic.png</file>
+        <file>pic/Gem/orange.png</file>
+        <file>pic/Gem/Red.png</file>
+        <file>pic/Gem/Silver.png</file>
+        <file>pic/Gem/violet.png</file>
+        <file>pic/Gem/Blue.png</file>
+        <file>pic/InGame/reset_disabled.png</file>
+        <file>pic/Record/dialog.png</file>
+        <file>pic/Record/light box.png</file>
+        <file>pic/Record/mask.png</file>
+        <file>pic/Record/rank plate.png</file>
+        <file>pic/Record/record_board.png</file>
+        <file>pic/Setting/button.png</file>
+        <file>pic/Setting/button_disabled.png</file>
+        <file>pic/Setting/button_hover.png</file>
+        <file>pic/Setting/headerless bkg.png</file>
+        <file>pic/Setting/dialog.png</file>
+    </qresource>
+</RCC>
